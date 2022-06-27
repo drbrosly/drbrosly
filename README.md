@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @drbrosly
+- 👀 I’m interested in python , R programming
+- I am currently learning R programming
